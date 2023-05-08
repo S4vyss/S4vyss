@@ -6,3 +6,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4vyss&show_icons=true&theme=material-palenight)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=S4vyss&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
